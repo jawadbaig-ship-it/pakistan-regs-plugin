@@ -1,0 +1,4761 @@
+{
+  "nodes": [
+    {
+      "id": "reg::BOP_eCIB",
+      "label": "BOP - eCIB Guidelines",
+      "type": "regulation",
+      "regulator": "Bank Guidance (3rd party)",
+      "reference": "BOP Resource Center",
+      "date": "Live",
+      "url": "https://www.bop.com.pk/Documents/Resource_Center/eCIB%20Guidelines.pdf"
+    },
+    {
+      "id": "reg::FMU_AML_Guide",
+      "label": "FMU AML/CFT Guide for Financial Institutions",
+      "type": "regulation",
+      "regulator": "FMU",
+      "reference": "FMU - AML/CFT Guide for Financial Institutions",
+      "date": "Updated periodically",
+      "url": "https://www.fmu.gov.pk/docs/Banks_CFI_AML.pdf"
+    },
+    {
+      "id": "reg::FMU_Portal",
+      "label": "FMU - Financial Monitoring Unit Portal",
+      "type": "regulation",
+      "regulator": "FMU",
+      "reference": "FMU Portal",
+      "date": "Live",
+      "url": "https://www.fmu.gov.pk/"
+    },
+    {
+      "id": "reg::GoP_AMLA_2010",
+      "label": "Anti-Money Laundering Act, 2010",
+      "type": "regulation",
+      "regulator": "GoP / FMU",
+      "reference": "AML Act 2010",
+      "date": "2010 (amended)",
+      "url": "https://www.fmu.gov.pk/docs/AMLA-2010.pdf"
+    },
+    {
+      "id": "reg::GoP_BCO_1962",
+      "label": "Banking Companies Ordinance (BCO), 1962",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "Banking Companies Ordinance LVII of 1962",
+      "date": "1962 (amended)",
+      "url": "https://www.sbp.org.pk/l_frame/BCO_1962.pdf"
+    },
+    {
+      "id": "reg::GoP_CBA_2015",
+      "label": "Credit Bureaus Act, 2015",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "Credit Bureaus Act 2015",
+      "date": "2015",
+      "url": "https://www.sbp.org.pk/cpd/CBA-2015.pdf"
+    },
+    {
+      "id": "reg::GoP_CloudFirst_2022",
+      "label": "Pakistan Cloud First Policy, 2022",
+      "type": "regulation",
+      "regulator": "GoP / MoITT",
+      "reference": "Pakistan Cloud First Policy 2022",
+      "date": "2022",
+      "url": "https://moitt.gov.pk/"
+    },
+    {
+      "id": "reg::GoP_Companies_Act",
+      "label": "Companies Act, 2017",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "Companies Act 2017",
+      "date": "2017",
+      "url": "https://www.secp.gov.pk/laws/acts/"
+    },
+    {
+      "id": "reg::GoP_ETO_2002",
+      "label": "Electronic Transactions Ordinance (ETO), 2002",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "ETO XLI of 2002",
+      "date": "2002",
+      "url": "https://www.sbp.org.pk/l_frame/ETO_2002.htm"
+    },
+    {
+      "id": "reg::GoP_MFI_2001",
+      "label": "Microfinance Institutions Ordinance, 2001",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "MFI Ordinance LV of 2001",
+      "date": "2001",
+      "url": "https://www.sbp.org.pk/acd/MFI-Ordinance-2001.pdf"
+    },
+    {
+      "id": "reg::GoP_NCSP_2021",
+      "label": "National Cyber Security Policy, 2021",
+      "type": "regulation",
+      "regulator": "GoP / MoITT",
+      "reference": "National Cyber Security Policy 2021",
+      "date": "2021",
+      "url": "https://moitt.gov.pk/"
+    },
+    {
+      "id": "reg::GoP_PDPB_2023",
+      "label": "Personal Data Protection Bill, 2023 (Final Draft)",
+      "type": "regulation",
+      "regulator": "GoP / MoITT",
+      "reference": "Personal Data Protection Bill 2023 (Draft)",
+      "date": "2023 (Draft)",
+      "url": "https://moitt.gov.pk/SiteImage/Misc/files/Final%20Draft%20Personal%20Data%20Protection%20Bill%20May%202023.pdf"
+    },
+    {
+      "id": "reg::GoP_PECA_2016",
+      "label": "Prevention of Electronic Crimes Act (PECA), 2016",
+      "type": "regulation",
+      "regulator": "GoP / MoITT",
+      "reference": "PECA 2016",
+      "date": "2016 (amended)",
+      "url": "https://na.gov.pk/uploads/documents/1470910659_707.pdf"
+    },
+    {
+      "id": "reg::GoP_PSEFT_2007",
+      "label": "Payment Systems & Electronic Fund Transfers (PS&EFT) Act, 2007",
+      "type": "regulation",
+      "regulator": "GoP",
+      "reference": "PS&EFT Act 2007",
+      "date": "2007",
+      "url": "https://www.sbp.org.pk/psd/2007/EFT_Act_2007.pdf"
+    },
+    {
+      "id": "reg::GoP_SBP_Act_1956",
+      "label": "State Bank of Pakistan Act, 1956",
+      "type": "regulation",
+      "regulator": "GoP / SBP",
+      "reference": "Act XXXIII of 1956",
+      "date": "1956 (amended 2022)",
+      "url": "https://www.sbp.org.pk/l_frame/SBP_Act.pdf"
+    },
+    {
+      "id": "reg::GoP_UN_Sanctions",
+      "label": "UN Security Council Sanctions - Pakistan Implementation",
+      "type": "regulation",
+      "regulator": "GoP / MoF",
+      "reference": "UN Sanctions Implementation",
+      "date": "Live",
+      "url": "https://www.finance.gov.pk/"
+    },
+    {
+      "id": "reg::IBA_Outsourcing",
+      "label": "Outsourcing IT Services in the Financial Sector - Pakistans Regulatory Landscape",
+      "type": "regulation",
+      "regulator": "IBA (Industry)",
+      "reference": "IBA Article",
+      "date": "Live",
+      "url": "https://www.ibanet.org/outsourcing-IT-services-in-the-financial-sector"
+    },
+    {
+      "id": "reg::MCB_CDD_Policy",
+      "label": "MCB Bank - CDD/AML/CFT/CPF Policy v7.0",
+      "type": "regulation",
+      "regulator": "Bank Guidance (3rd party)",
+      "reference": "MCB Bank policy excerpt",
+      "date": "2023",
+      "url": "https://www.mcb.com.pk/assets/documents/CDD_AML_CFT_CPF_POlicy_2023_-_version_7.0_-2023___1.pdf"
+    },
+    {
+      "id": "reg::MCB_Islamic_eCIB",
+      "label": "MCB Islamic - eCIB Customer Notice",
+      "type": "regulation",
+      "regulator": "Bank Guidance (3rd party)",
+      "reference": "MCB Islamic Customer Notice",
+      "date": "Live",
+      "url": "https://www.mcbislamicbank.com/assets/documents/CREDIT-INFORMATION-BUREAU-eCIB.pdf"
+    },
+    {
+      "id": "reg::MCB_SOBC",
+      "label": "MCB Bank - Schedule of Bank Charges (SOBC) Jan-Jun 2026",
+      "type": "regulation",
+      "regulator": "Bank Guidance (3rd party)",
+      "reference": "MCB Bank SOBC",
+      "date": "2026",
+      "url": "https://www.mcb.com.pk/assets/documents/SOBC-Jan-June-2026-English.pdf"
+    },
+    {
+      "id": "reg::Mettis_NanoLending",
+      "label": "SECP strengthens regulations to curb predatory practices in digital nano-lending",
+      "type": "regulation",
+      "regulator": "Industry News",
+      "reference": "Mettis Global",
+      "date": "2023",
+      "url": "https://mettisglobal.news/secp-strengthens-regulations-to-curb-predatory-practices-in-digital-nano-lending/"
+    },
+    {
+      "id": "reg::MPLAW_DigitalBank",
+      "label": "MPLAW Client Update - SBP Digital Banks Framework",
+      "type": "regulation",
+      "regulator": "Legal (3rd party)",
+      "reference": "MPLAW Client Update",
+      "date": "2022-01",
+      "url": "https://www.mplaw.com.pk/wp-content/uploads/2022/01/MPLAW-CLIENT-UPDATE-SBP-Digital-Banks-Framework.pdf"
+    },
+    {
+      "id": "reg::NADRA_Portal",
+      "label": "NADRA Verisys / Biometric Verification Services",
+      "type": "regulation",
+      "regulator": "NADRA",
+      "reference": "NADRA Portal",
+      "date": "Live",
+      "url": "https://www.nadra.gov.pk/"
+    },
+    {
+      "id": "reg::PBA_CollectionGuide",
+      "label": "PBA Guidelines for Collection / Recovery / Repossession Agencies",
+      "type": "regulation",
+      "regulator": "PBA",
+      "reference": "PBA Guidelines for Collection / Recovery / Repossession Agencies",
+      "date": "2021-03",
+      "url": "https://pakistanbanks.org.pk/wp-content/uploads/2021/03/guidelines.pdf"
+    },
+    {
+      "id": "reg::PIDE_ConsumerAware_2014",
+      "label": "Banking Consumer Awareness (PIDE Seminar Paper)",
+      "type": "regulation",
+      "regulator": "PIDE (Research)",
+      "reference": "PIDE Seminar Paper 2014",
+      "date": "2014",
+      "url": "https://file.pide.org.pk/pdfseminar/seminar-2014-14-banking-consumer-awareness.pdf"
+    },
+    {
+      "id": "reg::PTA_Portal",
+      "label": "PTA - Telecom Consumer Protection & Data Regulations",
+      "type": "regulation",
+      "regulator": "PTA",
+      "reference": "PTA Portal",
+      "date": "Live",
+      "url": "https://www.pta.gov.pk/"
+    },
+    {
+      "id": "reg::SBP_AML_BanksDFIs_Old",
+      "label": "SBP AML/CFT Regulations for Banks & DFIs (previous version)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP AML/CFT Regulations for Banks & DFIs (legacy)",
+      "date": "Pre-2022 (superseded by CL 33/2022)",
+      "url": "https://www.sbp.org.pk/l_frame/Revised-AML-CFT-Regulations.pdf"
+    },
+    {
+      "id": "reg::SBP_AML_CFT",
+      "label": "SBP AML/CFT/CPF Regulations",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular Letter 33/2022 — AML/CFT/CPF Regulations for SBP REs",
+      "date": "2022 (Consolidated)",
+      "url": "https://www.sbp.org.pk/bprd/2022/CL33-Annex-B.pdf"
+    },
+    {
+      "id": "reg::SBP_AML_MFB",
+      "label": "SBP Revised AML/CFT Regulations for MFBs",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "AC&MFD Circular 03 of 2019 - Revised AML/CFT Regulations for MFBs",
+      "date": "2019 (revised)",
+      "url": "https://www.sbp.org.pk/acd/2019/C3-Revised-AML-CFT-Regulations-MFBs.pdf"
+    },
+    {
+      "id": "reg::SBP_Asaan_2020",
+      "label": "SBP Asaan Digital / Asaan Mobile Account Guidelines",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular Letter 16 of 2020 - Asaan Digital Account / Asaan Mobile Account",
+      "date": "2020",
+      "url": "https://www.sbp.org.pk/bprd/2020/CL16.htm"
+    },
+    {
+      "id": "reg::SBP_BaselIII",
+      "label": "SBP Basel III Implementation",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Basel Capital Standards - Basel III implementation",
+      "date": "2013 (BPRD C8/2013)",
+      "url": "https://www.sbp.org.pk/bprd/2013/C8.htm"
+    },
+    {
+      "id": "reg::SBP_Basel_CreditRisk_2025",
+      "label": "Basel Capital Adequacy Framework Instructions for Credit Risk",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD C3/2025 Annex A",
+      "date": "2025",
+      "url": "https://www.sbp.org.pk/bprd/2025/C3-AnnexA.pdf"
+    },
+    {
+      "id": "reg::SBP_BranchlessBanking",
+      "label": "SBP Branchless Banking Regulations (Updated 2019)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular No. 10 of 2019 - Branchless Banking Regulations",
+      "date": "2019 (Updated)",
+      "url": "https://www.sbp.org.pk/bprd/2019/C10-Branchless-Banking-Regulations.pdf"
+    },
+    {
+      "id": "reg::SBP_CBA_About",
+      "label": "The Credit Bureaus Act, 2015 - Contents (SBP About page)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Acts page",
+      "date": "2015 (statute reproduction)",
+      "url": "https://www.sbp.org.pk/about/act/CreditBureauAct-2015.pdf"
+    },
+    {
+      "id": "reg::SBP_CB_Regs_Notif",
+      "label": "Credit Bureaus Regulations (Notification)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "Notification BC&CPD/2016",
+      "date": "2016",
+      "url": "https://www.sbp.org.pk/notifications/BCCPD/2016/ntf1.pdf"
+    },
+    {
+      "id": "reg::SBP_CB_Regs_Press",
+      "label": "Credit Bureaus Regulations - Press Release",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "Press Release 15 Apr 2016",
+      "date": "2016-04-15",
+      "url": "https://www.sbp.org.pk/press/2016/PR-15-Apr-2016.pdf"
+    },
+    {
+      "id": "reg::SBP_CGHM_2016",
+      "label": "SBP Consumer Grievances Handling Mechanism (CGHM)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "CPD Circular No. 01 of 2016 — Consumer Grievances Handling Mechanism",
+      "date": "2016-02-29",
+      "url": "https://www.sbp.org.pk/cpd/2016/C1-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_CircIndex",
+      "label": "SBP Circulars Index (All Departments)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Circulars Index",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/circulars/index.asp"
+    },
+    {
+      "id": "reg::SBP_Cloud",
+      "label": "SBP Framework on Outsourcing to CSPs",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular 01 of 2023 — Framework on Outsourcing to Cloud Service Providers",
+      "date": "2023",
+      "url": "https://www.sbp.org.pk/bprd/2023/C1-Annix-A.pdf"
+    },
+    {
+      "id": "reg::SBP_ConsumerBooklet",
+      "label": "SBP Consumer Awareness - Credit Reporting Booklet",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Consumer Awareness Booklet - Credit Reporting",
+      "date": "2021-06-18",
+      "url": "https://www.sbp.org.pk/cpd/pdf/Booklets/Booklet-18-6-2021.pdf"
+    },
+    {
+      "id": "reg::SBP_CPD_2019_C1",
+      "label": "Membership of Private Credit Bureaus under Credit Bureaus Act, 2015",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "CPD Circular 01 of 2019",
+      "date": "2019",
+      "url": "https://www.sbp.org.pk/cpd/2019/C1.htm"
+    },
+    {
+      "id": "reg::SBP_CPD_C4_2014",
+      "label": "CPD Circular No. 04/2014",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "CPD Circular 04 of 2014",
+      "date": "2014-08-29",
+      "url": "https://www.sbp.org.pk/cpd/2014/C4.htm"
+    },
+    {
+      "id": "reg::SBP_CPD_Mech",
+      "label": "SBP Complaint Resolution Mechanism",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP CPD Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/cpd/cpd-mech.asp"
+    },
+    {
+      "id": "reg::SBP_CPD_Portal",
+      "label": "SBP Consumer Protection Department Portal",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Consumer Protection Department (CPD) Portal",
+      "date": "Live portal",
+      "url": "https://www.sbp.org.pk/cpd/index-cpd.asp"
+    },
+    {
+      "id": "reg::SBP_Cyber_2016",
+      "label": "Prevention Against Cyber Attacks - SBP Instructions",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD C7 of 2016",
+      "date": "2016",
+      "url": "https://www.sbp.org.pk/bprd/2016/C7.htm"
+    },
+    {
+      "id": "reg::SBP_DFS_DigitalBank_HTML",
+      "label": "Digital Banking Framework - DFS Page",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "DFS Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/dfs/Digital-Bank-Regulatory.html"
+    },
+    {
+      "id": "reg::SBP_DFS_Players",
+      "label": "DFS Players & EMI Licensing Page",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "DFS Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/dfs/Players.html"
+    },
+    {
+      "id": "reg::SBP_DigitalBank_2022",
+      "label": "SBP Licensing & Regulatory Framework for Digital Banks",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular No. 01 of 2022 — Licensing & Regulatory Framework for Digital Banks",
+      "date": "2022-01-03",
+      "url": "https://www.sbp.org.pk/bprd/2022/C1-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_DigitalBank_ED",
+      "label": "Digital Bank Regulatory Framework - Exposure Draft",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Exposure Draft",
+      "date": "2021",
+      "url": "https://www.sbp.org.pk/dfs/digital-Policy.pdf"
+    },
+    {
+      "id": "reg::SBP_DigitalSec_2023",
+      "label": "SBP Measures to Enhance Security of Digital Banking Products (BPRD C4 2023)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular No. 04 of 2023 - Measures to Enhance Security of Digital Banking Products",
+      "date": "2023",
+      "url": "https://www.sbp.org.pk/bprd/2023/C4.htm"
+    },
+    {
+      "id": "reg::SBP_eCIB_Circulars",
+      "label": "eCIB - All Circulars Page",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "eCIB Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/ecib/circular.htm"
+    },
+    {
+      "id": "reg::SBP_eCIB_DataFmt_DFS",
+      "label": "New eCIB Data Format Specifications",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "DFS eCIB sub-portal",
+      "date": "Live",
+      "url": "https://dfs.sbp.org.pk/ecib/new-ecib.htm"
+    },
+    {
+      "id": "reg::SBP_eCIB_Master",
+      "label": "SBP eCIB Master Circular",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BC&CPD Circular No. 06 of 2021 — eCIB Master Circular",
+      "date": "2021-06 (Master Circular)",
+      "url": "https://www.sbp.org.pk/cpd/2021/C6-Appendix-A-eCIB-Master-Circular.pdf"
+    },
+    {
+      "id": "reg::SBP_eCIB_NewV2",
+      "label": "SBP eCIB System V2 - Launch Press Release",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Press Release - Launch of eCIB System V2",
+      "date": "2024-12-18",
+      "url": "https://www.sbp.org.pk/press/2024/Pr-18-Dec-2024.pdf"
+    },
+    {
+      "id": "reg::SBP_eCIB_NewV2_Page",
+      "label": "New eCIB System V2 - Information Page",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "eCIB Portal",
+      "date": "2024-2025",
+      "url": "https://www.sbp.org.pk/ecib/new-ecib.htm"
+    },
+    {
+      "id": "reg::SBP_eCIB_Portal",
+      "label": "eCIB Portal - SBP Credit Information Bureau",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP eCIB Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/ecib/index.htm"
+    },
+    {
+      "id": "reg::SBP_eCIB_QualityData",
+      "label": "SBP eCIB Quality Data Reporting Instructions",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "CPD Circular 01 of 2021 - Quality Data Reporting in eCIB",
+      "date": "2021",
+      "url": "https://www.sbp.org.pk/cpd/2021/C1-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_EMI_Regs",
+      "label": "SBP Regulations for EMIs",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSD Circular — Regulations for Electronic Money Institutions",
+      "date": "2023 (Updated)",
+      "url": "https://www.sbp.org.pk/psd/2023/C3-Enclosure-Regulations-EMIs.pdf"
+    },
+    {
+      "id": "reg::SBP_FairDebt_2008",
+      "label": "SBP Fair Debt Collection Guidelines (BPRD C13/2008)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular No. 13 of 2008 — Fair Debt Collection Guidelines",
+      "date": "2008-11-03",
+      "url": "https://www.sbp.org.pk/bprd/2008/C13.htm"
+    },
+    {
+      "id": "reg::SBP_FinConsGlobal_2014",
+      "label": "Financial Consumer Protection - A Global Perspective (Annex)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "CPD C4/2014 Annex",
+      "date": "2014",
+      "url": "https://www.sbp.org.pk/cpd/2014/C4-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_FinConsProtPress_2014",
+      "label": "SBP issues Circular for Financial Consumer Protection",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Press Release 5 Sep 2014",
+      "date": "2014-09-05",
+      "url": "https://www.sbp.org.pk/press/2014/Cons-05-Sep-2014.pdf"
+    },
+    {
+      "id": "reg::SBP_FSR",
+      "label": "SBP Financial Stability Review",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Financial Stability Review",
+      "date": "Annual",
+      "url": "https://www.sbp.org.pk/FSR/index.htm"
+    },
+    {
+      "id": "reg::SBP_GreenBanking",
+      "label": "SBP Green Banking Guidelines",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SMEFD/2024 Green Banking",
+      "date": "2024",
+      "url": "https://www.sbp.org.pk/smefd/circulars/2024/Green-Banking.htm"
+    },
+    {
+      "id": "reg::SBP_Housing",
+      "label": "SBP Housing Finance Guidelines & Government Markup Subsidy",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP HFD",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/hfd/index.htm"
+    },
+    {
+      "id": "reg::SBP_IFRS9",
+      "label": "SBP IFRS-9 Implementation for Banks",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP IFRS-9 Implementation Instructions",
+      "date": "2022 (Implementation)",
+      "url": "https://www.sbp.org.pk/bprd/2022/IFRS9.htm"
+    },
+    {
+      "id": "reg::SBP_InternalCRR_2007",
+      "label": "Guidelines on Internal Credit Risk Rating Systems",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BSRVD Annex C8 of 2007",
+      "date": "2007",
+      "url": "https://www.sbp.org.pk/bsrvd/2007/Annex-C8.pdf"
+    },
+    {
+      "id": "reg::SBP_LawsIndex",
+      "label": "Laws & Regulations - SBP Portal",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Laws & Regs Index",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/l_frame/index2.asp"
+    },
+    {
+      "id": "reg::SBP_NFIS",
+      "label": "National Financial Inclusion Strategy (NFIS) 2024-28",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "NFIS 2024-28",
+      "date": "2024-2028",
+      "url": "https://www.sbp.org.pk/Finc/index.htm"
+    },
+    {
+      "id": "reg::SBP_Onboarding_2021",
+      "label": "SBP Customers Digital Onboarding Framework (2021)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular 02 of 2021 - Customers Digital Onboarding Framework",
+      "date": "2021-09-15 (revised 2022)",
+      "url": "https://www.sbp.org.pk/bprd/2021/C2-Annex-A.pdf"
+    },
+    {
+      "id": "reg::SBP_Onboarding_2022_Revision",
+      "label": "Customers Digital Onboarding Framework (Revised April 2022)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD CL 15 of 2022",
+      "date": "2022-04-30",
+      "url": "https://www.sbp.org.pk/bprd/2022/CL15-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_Onboarding_2025",
+      "label": "SBP Consolidated Customer Onboarding Framework 2025",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular 01 of 2025 — Consolidated Customer Onboarding Framework",
+      "date": "2025 (Consolidated)",
+      "url": "https://www.sbp.org.pk/bprd/2025/C1-Consolidated-Customer-Onboarding-Framework.pdf"
+    },
+    {
+      "id": "reg::SBP_Onboarding_2026_CL9",
+      "label": "Consolidated Customer Onboarding Framework (Cover Letter)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD CL 9 of 2026",
+      "date": "2026",
+      "url": "https://www.sbp.org.pk/bprd/2026/CL9.htm"
+    },
+    {
+      "id": "reg::SBP_OpenBanking",
+      "label": "Open Banking Framework (Evolving)",
+      "type": "regulation",
+      "regulator": "SBP / SECP",
+      "reference": "SBP DFS - Open Banking",
+      "date": "Evolving",
+      "url": "https://www.sbp.org.pk/dfs/index.htm"
+    },
+    {
+      "id": "reg::SBP_Outsourcing",
+      "label": "SBP Outsourcing Risk Management Framework",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Circular No. 06 of 2019 — Risk Management in Outsourcing Arrangements",
+      "date": "2019",
+      "url": "https://www.sbp.org.pk/bprd/2019/C6-Annex-II.pdf"
+    },
+    {
+      "id": "reg::SBP_Outsourcing_2007",
+      "label": "SBP Guidelines on Outsourcing Arrangements (2007)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD Annex C9 of 2007",
+      "date": "2007",
+      "url": "https://www.sbp.org.pk/bprd/2007/annex_c9.pdf"
+    },
+    {
+      "id": "reg::SBP_Outsourcing_AmendI_2019",
+      "label": "Amendments in Outsourcing Risk Management Framework (Annex I)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "BPRD C6/2019 Annex I",
+      "date": "2019",
+      "url": "https://www.sbp.org.pk/bprd/2019/C6-Annex-I.pdf"
+    },
+    {
+      "id": "reg::SBP_PolicyRate",
+      "label": "SBP Policy Rate & Interest Rate Framework",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Monetary Policy",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/m_policy/index.htm"
+    },
+    {
+      "id": "reg::SBP_PRs_Agri",
+      "label": "Prudential Regulations for Agriculture Financing",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Publications Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/publications/prudential/index.htm"
+    },
+    {
+      "id": "reg::SBP_PRs_Consumer",
+      "label": "SBP Prudential Regulations - Consumer Financing",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Prudential Regulations for Consumer Financing",
+      "date": "Updated periodically (current consolidated)",
+      "url": "https://www.sbp.org.pk/publications/prudential/PRs-Consumer.pdf"
+    },
+    {
+      "id": "reg::SBP_PRs_Corporate",
+      "label": "SBP Prudential Regulations - Corporate / Commercial Banking",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Prudential Regulations - Corporate / Commercial Banking",
+      "date": "2024-06 (current)",
+      "url": "https://www.sbp.org.pk/publications/prudential/PRs-IPF-June-24.pdf"
+    },
+    {
+      "id": "reg::SBP_PRs_Index",
+      "label": "Prudential Regulations Index Page (All PRs)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Publications Portal",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/publications/prudential/index.htm"
+    },
+    {
+      "id": "reg::SBP_PRs_MFB",
+      "label": "SBP Prudential Regulations for MFBs (2025)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Prudential Regulations for Microfinance Banks (2025)",
+      "date": "2025",
+      "url": "https://www.sbp.org.pk/publications/prudential/PRs-Microfinance-Banks-2025.pdf"
+    },
+    {
+      "id": "reg::SBP_PRs_SME",
+      "label": "SBP Prudential Regulations - SME Financing (Jan 2025)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Prudential Regulations for SME Financing",
+      "date": "2025-01",
+      "url": "https://www.sbp.org.pk/publications/prudential/SME-PRs-Updtd-Jan-2025.pdf"
+    },
+    {
+      "id": "reg::SBP_PRs_SME_OldVer",
+      "label": "SBP Prudential Regulations for SMEs (older version)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Publications Portal",
+      "date": "Pre-2025",
+      "url": "https://www.sbp.org.pk/publications/prudential/SME-PRs-Updated.pdf"
+    },
+    {
+      "id": "reg::SBP_PSORules_2014",
+      "label": "Rules for Payment System Operators (PSOs) and Payment System Providers (PSPs)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSO/PSP Rules 2014",
+      "date": "2014",
+      "url": "https://www.sbp.org.pk/psd/2014/PSO-Rules.htm"
+    },
+    {
+      "id": "reg::SBP_PSPMerchants_2025",
+      "label": "Facilitation of Merchants Operations",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSP&OD Circular 02 of 2025",
+      "date": "2025",
+      "url": "https://www.sbp.org.pk/psd/2025/C2.htm"
+    },
+    {
+      "id": "reg::SBP_PSP_CustNotif_2024",
+      "label": "SBP PSP Customer Notifications for Digital Payments (PSD C1 2024)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSP&OD Circular No. 01 of 2024 - Customer Notifications for Digital Payments via Mobile Apps",
+      "date": "2024",
+      "url": "https://www.sbp.org.pk/psd/2024/C1.htm"
+    },
+    {
+      "id": "reg::SBP_PSP_DLA_Block",
+      "label": "SBP - Block Digital Payment Services to Unauthorised DLAs (PSD C2 2023)",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSP&OD Circular No. 02 of 2023 - Digital Payment Services to Unauthorised DLAs",
+      "date": "2023",
+      "url": "https://www.sbp.org.pk/psd/2023/C2.htm"
+    },
+    {
+      "id": "reg::SBP_Raast",
+      "label": "SBP Raast - Pakistan Instant Payment System",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "Raast - Pakistans Instant Payment System",
+      "date": "Live",
+      "url": "https://www.sbp.org.pk/PS/Raast.htm"
+    },
+    {
+      "id": "reg::SBP_RiskMgmt_Guidelines",
+      "label": "Risk Management Guidelines for Commercial Banks & DFIs",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Risk Management Guidelines",
+      "date": "2003 (foundational)",
+      "url": "https://www.sbp.org.pk/riskmgm.pdf"
+    },
+    {
+      "id": "reg::SBP_Sandbox",
+      "label": "SBP Regulatory Sandbox Framework",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Regulatory Sandbox Framework",
+      "date": "2025 (Refreshed)",
+      "url": "https://www.sbp.org.pk/psd/2025/Regulatory-Sandbox.htm"
+    },
+    {
+      "id": "reg::SBP_Shariah",
+      "label": "SBP Shariah Governance Framework for Islamic Banking",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "SBP Shariah Governance Framework for Islamic Banking Institutions",
+      "date": "Active",
+      "url": "https://www.sbp.org.pk/ibd/index.asp"
+    },
+    {
+      "id": "reg::SBP_TechGov_RM",
+      "label": "SBP Enterprise Technology Governance & Risk Management Framework for FIs",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "Enterprise Technology Governance & Risk Management Framework for FIs",
+      "date": "2017 (BPRD C5/2017 + amendments)",
+      "url": "https://www.sbp.org.pk/bprd/2017/C5-Annex.pdf"
+    },
+    {
+      "id": "reg::SBP_TRM_PSP",
+      "label": "SBP Technology Risk Management Framework for Payment Institutions",
+      "type": "regulation",
+      "regulator": "SBP",
+      "reference": "PSD Circular 04 of 2025 - Technology Risk Management Framework for Payment Institutions",
+      "date": "2025",
+      "url": "https://www.sbp.org.pk/psd/2025/C4-annex.pdf"
+    },
+    {
+      "id": "reg::Scribd_CRR",
+      "label": "Internal Credit Risk Rating System (Scribd copy)",
+      "type": "regulation",
+      "regulator": "Scribd (3rd party copy)",
+      "reference": "3rd-party hosted copy",
+      "date": "-",
+      "url": "https://www.scribd.com/document/782990350/439-Credit-Risk-Rating-System"
+    },
+    {
+      "id": "reg::Scribd_Onboarding",
+      "label": "Consolidated Customer Onboarding Framework (Scribd copy)",
+      "type": "regulation",
+      "regulator": "Scribd (3rd party copy)",
+      "reference": "3rd-party hosted copy",
+      "date": "-",
+      "url": "https://www.scribd.com/document/944836085/C1-Consolidated-Customer-Onboarding-Framework"
+    },
+    {
+      "id": "reg::Scribd_Onboarding_Pres",
+      "label": "SBP Digital Onboarding Framework Guide (Scribd presentation)",
+      "type": "regulation",
+      "regulator": "Scribd (3rd party copy)",
+      "reference": "3rd-party presentation",
+      "date": "-",
+      "url": "https://www.scribd.com/presentation/625703519/Customers-Digital-Onboarding-Framework-002"
+    },
+    {
+      "id": "reg::Scribd_PostDisb",
+      "label": "Post-Disbursement Loan Follow-Up Guide (Scribd)",
+      "type": "regulation",
+      "regulator": "Scribd (3rd party copy)",
+      "reference": "3rd-party guide",
+      "date": "-",
+      "url": "https://www.scribd.com/document/339899572/POST-DISBURSEMENT-FOLLOW-UP-SURE-STEP-TO-docx"
+    },
+    {
+      "id": "reg::Scribd_PRsConsumer",
+      "label": "PRs for Consumer Financing (Scribd copy)",
+      "type": "regulation",
+      "regulator": "Scribd (3rd party copy)",
+      "reference": "3rd-party hosted copy",
+      "date": "-",
+      "url": "https://www.scribd.com/document/529907464/PRs-Consumer"
+    },
+    {
+      "id": "reg::SECP_10_2023",
+      "label": "SECP Circular 10/2023 - Digital Nano-Lending",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Circular 10 of 2023",
+      "date": "2023-08-07",
+      "url": "https://www.secp.gov.pk/document/circular-no-10-of-2023-requirements-for-lending-nbfcs-providing-digital-nano-lending/"
+    },
+    {
+      "id": "reg::SECP_12_2024",
+      "label": "SECP Circular 12/2024 - Digital Lending Updates",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Circular 12 of 2024",
+      "date": "2024-05-16",
+      "url": "https://www.secp.gov.pk/document/circular-no-12-of-2024-requirements-for-nbfcs-engaged-in-digital-lending/"
+    },
+    {
+      "id": "reg::SECP_8_2024",
+      "label": "SECP Circular 8/2024 - Digital Lending Guidelines",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Circular 8 of 2024",
+      "date": "2024-03-18",
+      "url": "https://www.secp.gov.pk/document/circular-8-of-2024-guidelines-for-nbfcs-engaged-in-digital-lending-2/"
+    },
+    {
+      "id": "reg::SECP_AML_NBFC",
+      "label": "SECP AML/CFT Regulations for NBFCs",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP AML/CFT Regulations for Regulated Persons",
+      "date": "AML/CFT Regs (current)",
+      "url": "https://www.secp.gov.pk/laws/regulations/"
+    },
+    {
+      "id": "reg::SECP_C12_Dup",
+      "label": "SECP Circular 12/2024 - alternative landing URL",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "Circular 12/2024 (alt URL)",
+      "date": "2024",
+      "url": "https://www.secp.gov.pk/document/circular-12-of-2024-updated-requirements-of-nbfcs-engaged-in-digital-lending/"
+    },
+    {
+      "id": "reg::SECP_DLA_Whitelist_Doc",
+      "label": "Digital Lending Apps run/administered by Licensed NBFCs (Whitelist)",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Document - Digital Lending Apps",
+      "date": "Live",
+      "url": "https://www.secp.gov.pk/document/digital-lending-apps-being-run-and-administered-by-duly-licensed-lending-nbfcs/"
+    },
+    {
+      "id": "reg::SECP_NBFC_Regs",
+      "label": "SECP NBFC & Notified Entities Regulations 2008",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "NBFC & Notified Entities Regulations, 2008",
+      "date": "2008 (with amendments)",
+      "url": "https://www.secp.gov.pk/laws/regulations/"
+    },
+    {
+      "id": "reg::SECP_NBFC_Rules",
+      "label": "SECP NBFC (Establishment & Regulation) Rules 2003",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "NBFC (Establishment & Regulation) Rules, 2003",
+      "date": "2003 (with amendments)",
+      "url": "https://www.secp.gov.pk/laws/rules/"
+    },
+    {
+      "id": "reg::SECP_NBFC_Stats",
+      "label": "SECP NBFCs Data & Statistics Portal",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP NBFC Statistics Portal",
+      "date": "Live",
+      "url": "https://www.secp.gov.pk/data-and-statistics/nbfcs/"
+    },
+    {
+      "id": "reg::SECP_PR_DigLendStandards_2022",
+      "label": "SECP issues Digital Lending Standards (Press Release)",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release Dec 2022",
+      "date": "2022-12-28",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2022/12/Press-Release-December-28-SECP-issues-digital-lending-standards.pdf"
+    },
+    {
+      "id": "reg::SECP_PR_DraftAmend_2016",
+      "label": "Draft Amendments to NBFC (Establishment & Regulation) Rules, 2003 - Press Release",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release Sep 2016",
+      "date": "2016-09-12",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2016/05/Sep_12_DraftAmendmentsNBFC_EstablishmentRegulationRules2003.pdf"
+    },
+    {
+      "id": "reg::SECP_PR_NovelSolutions_2024",
+      "label": "SECP enables Digital Lenders to launch Novel Solutions",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release May 2024",
+      "date": "2024-05",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2024/05/SECP-enables-digital-lenders-to-launch-novel-solutions.pdf"
+    },
+    {
+      "id": "reg::SECP_PR_PredatoryNano_2023",
+      "label": "SECP strengthens measures to prevent predatory lending in Digital Nano-Lending (Press Release)",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release Aug 2023",
+      "date": "2023-08-07",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2023/08/Press-Release-Aug-7-SECP-strengthens-measures-to-prevent-predatory-lending-in-Digital-Nano-Lending.pdf"
+    },
+    {
+      "id": "reg::SECP_PR_SAD_2024",
+      "label": "SECP introduces Self-Assessment Declaration for NBFCs to enrol Digital Lending Apps",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release May 2024",
+      "date": "2024-05-23",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2024/05/Press-Release-May-23-SECP-Introduces-Self-Assessment-Declaration-for-NBFCs-to-Enroll-Digital-Lending-Apps.pdf"
+    },
+    {
+      "id": "reg::SECP_PR_Whitelist_2023",
+      "label": "SECP publishes Digital Lending Applications Whitelist (Press Release)",
+      "type": "regulation",
+      "regulator": "SECP",
+      "reference": "SECP Press Release Apr 2023",
+      "date": "2023-04-12",
+      "url": "https://www.secp.gov.pk/wp-content/uploads/2023/04/Press-Release-April-12-SECP-publishes-Digital-Lending-Applications-Whitelist.pdf"
+    },
+    {
+      "id": "reg::Tasdeeq_Telco",
+      "label": "Provision of Data by Telcos to Credit Bureaus",
+      "type": "regulation",
+      "regulator": "Tasdeeq (Credit Bureau)",
+      "reference": "Tasdeeq Insights",
+      "date": "Live",
+      "url": "https://tasdeeq.com/provision-of-data-by-telcos-to-credit-bureaus/"
+    },
+    {
+      "id": "concept::kfs",
+      "label": "Key Fact Statement (KFS)",
+      "type": "concept",
+      "tags": "consumer-protection,disclosure,digital-lending"
+    },
+    {
+      "id": "concept::ecib",
+      "label": "Electronic Credit Information Bureau (eCIB)",
+      "type": "concept",
+      "tags": "credit-reporting,prudential"
+    },
+    {
+      "id": "concept::cdd",
+      "label": "Customer Due Diligence (CDD)",
+      "type": "concept",
+      "tags": "aml-cft,customer-onboarding"
+    },
+    {
+      "id": "concept::edd",
+      "label": "Enhanced Due Diligence (EDD)",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::kyc",
+      "label": "Know Your Customer (KYC)",
+      "type": "concept",
+      "tags": "customer-onboarding,aml-cft"
+    },
+    {
+      "id": "concept::dbr",
+      "label": "Debt Burden Ratio (DBR)",
+      "type": "concept",
+      "tags": "prudential,consumer-protection"
+    },
+    {
+      "id": "concept::aml-cft",
+      "label": "AML/CFT/CPF Framework",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::str",
+      "label": "Suspicious Transaction Report (STR)",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::ctr",
+      "label": "Currency Transaction Report (CTR)",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::beneficial-owner",
+      "label": "Beneficial Ownership",
+      "type": "concept",
+      "tags": "aml-cft,customer-onboarding"
+    },
+    {
+      "id": "concept::nadra-verisys",
+      "label": "NADRA Verisys / BVS",
+      "type": "concept",
+      "tags": "customer-onboarding,identity"
+    },
+    {
+      "id": "concept::biometric",
+      "label": "Biometric Verification",
+      "type": "concept",
+      "tags": "customer-onboarding,identity"
+    },
+    {
+      "id": "concept::otp",
+      "label": "One-Time Password (OTP)",
+      "type": "concept",
+      "tags": "cyber,customer-onboarding,payment-systems"
+    },
+    {
+      "id": "concept::sanctions",
+      "label": "UN / Domestic Sanctions",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::pep",
+      "label": "Politically Exposed Person (PEP)",
+      "type": "concept",
+      "tags": "aml-cft"
+    },
+    {
+      "id": "concept::outsourcing",
+      "label": "Outsourcing",
+      "type": "concept",
+      "tags": "outsourcing,tech-risk,governance"
+    },
+    {
+      "id": "concept::cloud",
+      "label": "Cloud / CSP Outsourcing",
+      "type": "concept",
+      "tags": "cloud,outsourcing,data-protection"
+    },
+    {
+      "id": "concept::data-localization",
+      "label": "Data Localization / Residency",
+      "type": "concept",
+      "tags": "data-protection,cloud"
+    },
+    {
+      "id": "concept::sandbox",
+      "label": "Regulatory Sandbox",
+      "type": "concept",
+      "tags": "digital-lending,digital-banking,payment-systems"
+    },
+    {
+      "id": "concept::whitelist",
+      "label": "SECP DLA Whitelist",
+      "type": "concept",
+      "tags": "digital-lending"
+    },
+    {
+      "id": "concept::digital-lending",
+      "label": "Digital Lending",
+      "type": "concept",
+      "tags": "digital-lending"
+    },
+    {
+      "id": "concept::nano-lending",
+      "label": "Digital Nano-Lending",
+      "type": "concept",
+      "tags": "digital-lending,consumer-protection"
+    },
+    {
+      "id": "concept::raast",
+      "label": "Raast Instant Payments",
+      "type": "concept",
+      "tags": "payment-systems"
+    },
+    {
+      "id": "concept::branchless-banking",
+      "label": "Branchless Banking & Mobile Wallets",
+      "type": "concept",
+      "tags": "payment-systems,customer-onboarding"
+    },
+    {
+      "id": "concept::asaan-account",
+      "label": "Asaan Account",
+      "type": "concept",
+      "tags": "customer-onboarding,consumer-protection"
+    },
+    {
+      "id": "concept::open-banking",
+      "label": "Open Banking",
+      "type": "concept",
+      "tags": "payment-systems,data-protection"
+    },
+    {
+      "id": "concept::fair-debt-collection",
+      "label": "Fair Debt Collection",
+      "type": "concept",
+      "tags": "recovery,consumer-protection"
+    },
+    {
+      "id": "concept::bcfrf",
+      "label": "Business Conduct & Fair Treatment Regulatory Framework (BC&FRF)",
+      "type": "concept",
+      "tags": "consumer-protection"
+    },
+    {
+      "id": "concept::cghm",
+      "label": "Consumer Grievances Handling Mechanism (CGHM)",
+      "type": "concept",
+      "tags": "consumer-protection,governance"
+    },
+    {
+      "id": "concept::banking-mohtasib",
+      "label": "Banking Mohtasib (Ombudsman)",
+      "type": "concept",
+      "tags": "consumer-protection"
+    },
+    {
+      "id": "concept::basel-iii",
+      "label": "Basel III",
+      "type": "concept",
+      "tags": "capital,prudential,liquidity"
+    },
+    {
+      "id": "concept::ifrs9",
+      "label": "IFRS-9 / Expected Credit Loss",
+      "type": "concept",
+      "tags": "prudential,capital"
+    },
+    {
+      "id": "concept::shariah-governance",
+      "label": "Shariah Governance",
+      "type": "concept",
+      "tags": "islamic,governance"
+    },
+    {
+      "id": "concept::cybersecurity",
+      "label": "Cybersecurity",
+      "type": "concept",
+      "tags": "cyber,tech-risk"
+    },
+    {
+      "id": "concept::bcp-dr",
+      "label": "Business Continuity & Disaster Recovery",
+      "type": "concept",
+      "tags": "tech-risk,cyber"
+    },
+    {
+      "id": "concept::tech-risk",
+      "label": "Technology Risk Management",
+      "type": "concept",
+      "tags": "tech-risk,governance"
+    },
+    {
+      "id": "concept::classification-provisioning",
+      "label": "Loan Classification & Provisioning",
+      "type": "concept",
+      "tags": "prudential,capital"
+    },
+    {
+      "id": "concept::capital-adequacy",
+      "label": "Capital Adequacy & Paid-up Capital",
+      "type": "concept",
+      "tags": "capital,prudential"
+    },
+    {
+      "id": "concept::data-protection",
+      "label": "Personal Data Protection",
+      "type": "concept",
+      "tags": "data-protection,consumer-protection"
+    },
+    {
+      "id": "entity::sbp",
+      "label": "State Bank of Pakistan (SBP)",
+      "type": "entity",
+      "kind": "regulator"
+    },
+    {
+      "id": "entity::secp",
+      "label": "Securities and Exchange Commission of Pakistan (SECP)",
+      "type": "entity",
+      "kind": "regulator"
+    },
+    {
+      "id": "entity::fmu",
+      "label": "Financial Monitoring Unit (FMU)",
+      "type": "entity",
+      "kind": "regulator"
+    },
+    {
+      "id": "entity::nadra",
+      "label": "National Database & Registration Authority (NADRA)",
+      "type": "entity",
+      "kind": "adjacent_authority"
+    },
+    {
+      "id": "entity::pta",
+      "label": "Pakistan Telecommunication Authority (PTA)",
+      "type": "entity",
+      "kind": "adjacent_authority"
+    },
+    {
+      "id": "entity::moitt",
+      "label": "Ministry of IT & Telecommunication (MoITT)",
+      "type": "entity",
+      "kind": "regulator"
+    },
+    {
+      "id": "entity::mof",
+      "label": "Ministry of Finance (MoF)",
+      "type": "entity",
+      "kind": "adjacent_authority"
+    },
+    {
+      "id": "entity::pba",
+      "label": "Pakistan Banks Association (PBA)",
+      "type": "entity",
+      "kind": "adjacent_authority"
+    },
+    {
+      "id": "entity::banking-mohtasib",
+      "label": "Banking Mohtasib",
+      "type": "entity",
+      "kind": "adjacent_authority"
+    },
+    {
+      "id": "entity::bank",
+      "label": "Bank",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::dfi",
+      "label": "Development Finance Institution (DFI)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::mfb",
+      "label": "Microfinance Bank (MFB)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::digital-bank",
+      "label": "Digital Bank (DRB / DFB)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::emi",
+      "label": "Electronic Money Institution (EMI)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::nbfc",
+      "label": "Non-Banking Finance Company (NBFC)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::psp",
+      "label": "Payment System Provider (PSP)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::pso",
+      "label": "Payment System Operator (PSO)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::credit-bureau",
+      "label": "Private Credit Bureau",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::dla",
+      "label": "Digital Lending App (DLA)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    },
+    {
+      "id": "entity::reporting-entity",
+      "label": "Reporting Entity (RE)",
+      "type": "entity",
+      "kind": "regulated_entity"
+    }
+  ],
+  "edges": [
+    {
+      "source": "reg::BOP_eCIB",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::BOP_eCIB",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::fmu",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_AML_Guide",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "entity::fmu",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::FMU_Portal",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::fmu",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_AMLA_2010",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_BCO_1962",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_CBA_2015",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_CBA_2015",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_CBA_2015",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_CloudFirst_2022",
+      "target": "entity::moitt",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "concept::ifrs9",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_Companies_Act",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_ETO_2002",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_ETO_2002",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_ETO_2002",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_ETO_2002",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_MFI_2001",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_MFI_2001",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_MFI_2001",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_NCSP_2021",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_NCSP_2021",
+      "target": "entity::moitt",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PDPB_2023",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_PDPB_2023",
+      "target": "entity::moitt",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PECA_2016",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_PECA_2016",
+      "target": "entity::moitt",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_PSEFT_2007",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_SBP_Act_1956",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_UN_Sanctions",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::GoP_UN_Sanctions",
+      "target": "entity::mof",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::GoP_UN_Sanctions",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::IBA_Outsourcing",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::IBA_Outsourcing",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::IBA_Outsourcing",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MCB_CDD_Policy",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MCB_Islamic_eCIB",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_Islamic_eCIB",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MCB_SOBC",
+      "target": "concept::bcfrf",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_SOBC",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::MCB_SOBC",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Mettis_NanoLending",
+      "target": "concept::nano-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::Mettis_NanoLending",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MPLAW_DigitalBank",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MPLAW_DigitalBank",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::MPLAW_DigitalBank",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::NADRA_Portal",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "concept::fair-debt-collection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "entity::pba",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PBA_CollectionGuide",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PIDE_ConsumerAware_2014",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PTA_Portal",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::PTA_Portal",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::PTA_Portal",
+      "target": "entity::pta",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::PTA_Portal",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "concept::pep",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "entity::fmu",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_BanksDFIs_Old",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::pep",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::fmu",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_CFT",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "concept::pep",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "entity::fmu",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_AML_MFB",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "concept::asaan-account",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Asaan_2020",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_BaselIII",
+      "target": "concept::basel-iii",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BaselIII",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BaselIII",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_BaselIII",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_BaselIII",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Basel_CreditRisk_2025",
+      "target": "concept::basel-iii",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Basel_CreditRisk_2025",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Basel_CreditRisk_2025",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Basel_CreditRisk_2025",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Basel_CreditRisk_2025",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "concept::branchless-banking",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_BranchlessBanking",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CBA_About",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CBA_About",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CB_Regs_Notif",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CB_Regs_Notif",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CB_Regs_Press",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CB_Regs_Press",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "concept::bcfrf",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "concept::cghm",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "concept::banking-mohtasib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CGHM_2016",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CircIndex",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CircIndex",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::data-localization",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cloud",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_ConsumerBooklet",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_ConsumerBooklet",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_ConsumerBooklet",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_ConsumerBooklet",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_ConsumerBooklet",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_2019_C1",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "concept::bcfrf",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_C4_2014",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Mech",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CPD_Mech",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "concept::bcfrf",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "concept::cghm",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "concept::banking-mohtasib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::banking-mohtasib",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_CPD_Portal",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cyber_2016",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Cyber_2016",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Cyber_2016",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cyber_2016",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Cyber_2016",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_DigitalBank_HTML",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_DFS_DigitalBank_HTML",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_DigitalBank_HTML",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "concept::branchless-banking",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DFS_Players",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_2022",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_ED",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_ED",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalBank_ED",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_DigitalSec_2023",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_Circulars",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_Circulars",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_DataFmt_DFS",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_DataFmt_DFS",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_Master",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_NewV2",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_NewV2",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_NewV2",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_NewV2_Page",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_NewV2_Page",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_Portal",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_Portal",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_eCIB_QualityData",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_EMI_Regs",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "concept::fair-debt-collection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::pba",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FairDebt_2008",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FinConsGlobal_2014",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_FinConsGlobal_2014",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FinConsGlobal_2014",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FinConsGlobal_2014",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_FinConsProtPress_2014",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_FSR",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_GreenBanking",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_GreenBanking",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_GreenBanking",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_GreenBanking",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_GreenBanking",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Housing",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Housing",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "concept::ifrs9",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_IFRS9",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_InternalCRR_2007",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_InternalCRR_2007",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_InternalCRR_2007",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_InternalCRR_2007",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_LawsIndex",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_NFIS",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_NFIS",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_NFIS",
+      "target": "entity::mof",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2021",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2022_Revision",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::nadra-verisys",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::pep",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "concept::asaan-account",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2025",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Onboarding_2026_CL9",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "concept::open-banking",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_OpenBanking",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_2007",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Outsourcing_AmendI_2019",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PolicyRate",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PolicyRate",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PolicyRate",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Agri",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Agri",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_Agri",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Agri",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::dbr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::shariah-governance",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Consumer",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "concept::branchless-banking",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Corporate",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Index",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_Index",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_Index",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::dbr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::branchless-banking",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_MFB",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "concept::ifrs9",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_SME",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_SME_OldVer",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PRs_SME_OldVer",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_SME_OldVer",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSORules_2014",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSORules_2014",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PSORules_2014",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSORules_2014",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "concept::raast",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSPMerchants_2025",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_CustNotif_2024",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::secp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PSP_DLA_Block",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Raast",
+      "target": "concept::raast",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Raast",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Raast",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Raast",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Raast",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_RiskMgmt_Guidelines",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_RiskMgmt_Guidelines",
+      "target": "concept::tech-risk",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_RiskMgmt_Guidelines",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_RiskMgmt_Guidelines",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_RiskMgmt_Guidelines",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Sandbox",
+      "target": "concept::sandbox",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Sandbox",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Sandbox",
+      "target": "entity::reporting-entity",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_Shariah",
+      "target": "concept::shariah-governance",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_Shariah",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_Shariah",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::tech-risk",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "entity::bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "entity::dfi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "entity::mfb",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TechGov_RM",
+      "target": "entity::digital-bank",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::biometric",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::otp",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::cloud",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::bcp-dr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "concept::tech-risk",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "entity::sbp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "entity::nadra",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_TRM_PSP",
+      "target": "entity::pso",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Scribd_CRR",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Scribd_Onboarding",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::Scribd_Onboarding",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Scribd_Onboarding_Pres",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Scribd_PRsConsumer",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::Scribd_PRsConsumer",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "concept::ecib",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "concept::nano-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_10_2023",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "concept::outsourcing",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_12_2024",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::fair-debt-collection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::cybersecurity",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "entity::emi",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_8_2024",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::cdd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::edd",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::str",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::ctr",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::beneficial-owner",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::sanctions",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::pep",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "concept::shariah-governance",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "entity::fmu",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_AML_NBFC",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_C12_Dup",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_C12_Dup",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_C12_Dup",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_C12_Dup",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "entity::psp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_DLA_Whitelist_Doc",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_NBFC_Regs",
+      "target": "concept::shariah-governance",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Regs",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Regs",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Regs",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_NBFC_Regs",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "concept::kyc",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "concept::shariah-governance",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "concept::capital-adequacy",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "entity::sbp",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_NBFC_Rules",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_NBFC_Stats",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Stats",
+      "target": "concept::classification-provisioning",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_NBFC_Stats",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_NBFC_Stats",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_PR_DigLendStandards_2022",
+      "target": "concept::kfs",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_DigLendStandards_2022",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_DigLendStandards_2022",
+      "target": "concept::data-protection",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_DigLendStandards_2022",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_DraftAmend_2016",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_DraftAmend_2016",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_PR_NovelSolutions_2024",
+      "target": "concept::aml-cft",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_NovelSolutions_2024",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_NovelSolutions_2024",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_PredatoryNano_2023",
+      "target": "concept::nano-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_PredatoryNano_2023",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_SAD_2024",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_SAD_2024",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_SAD_2024",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_SAD_2024",
+      "target": "entity::nbfc",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_PR_SAD_2024",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SECP_PR_Whitelist_2023",
+      "target": "concept::whitelist",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_Whitelist_2023",
+      "target": "concept::digital-lending",
+      "type": "addresses"
+    },
+    {
+      "source": "reg::SECP_PR_Whitelist_2023",
+      "target": "entity::secp",
+      "type": "issued_by"
+    },
+    {
+      "source": "reg::SECP_PR_Whitelist_2023",
+      "target": "entity::dla",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::Tasdeeq_Telco",
+      "target": "entity::credit-bureau",
+      "type": "applies_to"
+    },
+    {
+      "source": "reg::SBP_PRs_SME_OldVer",
+      "target": "reg::SBP_PRs_SME",
+      "type": "references"
+    },
+    {
+      "source": "reg::Scribd_CRR",
+      "target": "reg::SBP_InternalCRR_2007",
+      "type": "references"
+    },
+    {
+      "source": "reg::Scribd_Onboarding",
+      "target": "reg::SBP_Onboarding_2025",
+      "type": "references"
+    },
+    {
+      "source": "reg::Scribd_PRsConsumer",
+      "target": "reg::SBP_PRs_Consumer",
+      "type": "references"
+    },
+    {
+      "source": "reg::SECP_C12_Dup",
+      "target": "reg::SECP_12_2024",
+      "type": "references"
+    }
+  ],
+  "stats": {
+    "nodes": 174,
+    "edges": 671,
+    "regulations": 115,
+    "concepts": 39,
+    "entities": 20,
+    "edges_addresses": 288,
+    "edges_applies_to": 293,
+    "edges_issued_by": 85,
+    "edges_references": 5
+  }
+}

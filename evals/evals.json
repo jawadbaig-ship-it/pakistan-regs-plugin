@@ -1,0 +1,83 @@
+{
+  "plugin_name": "pakistan-regs",
+  "evals": [
+    {
+      "id": 1,
+      "skill": "pakistan-regs-search",
+      "name": "ecib-pre-disbursement-mfb",
+      "prompt": "Is a pre-disbursement eCIB check mandatory for a Microfinance Bank making a Rs. 50,000 consumer loan? Cite the exact circular and section.",
+      "assertions": [
+        {"text": "Answer states YES (pre-disbursement eCIB check is mandatory)", "auto": false},
+        {"text": "Cites [[SBP_eCIB_Master]] doc_id wikilink", "auto": true, "check": "contains:[[SBP_eCIB_Master]]"},
+        {"text": "Includes #page= deep link to the source PDF", "auto": true, "check": "regex:#page=\\d+"},
+        {"text": "Includes a chunk_id like SBP_eCIB_Master::p", "auto": true, "check": "regex:SBP_eCIB_Master::p\\d+"},
+        {"text": "Does not fabricate a section number outside the actual document", "auto": false}
+      ]
+    },
+    {
+      "id": 2,
+      "skill": "pakistan-regs-search",
+      "name": "contact-list-prohibition",
+      "prompt": "Can a SECP-licensed digital lending NBFC ask the user for permission to access their phone contacts to improve credit decisions? Be specific about which regulation answers this.",
+      "assertions": [
+        {"text": "Answer states NO — prohibition is absolute and overrides user consent", "auto": false},
+        {"text": "Cites at least one of SECP_8_2024, SECP_10_2023, SECP_12_2024", "auto": true, "check": "regex:\\[\\[SECP_(8_2024|10_2023|12_2024)\\]\\]"},
+        {"text": "Mentions that consent does not override the prohibition", "auto": true, "check": "contains_any:irrespective of consent,overrides user consent,even if the user consents,regardless of consent"},
+        {"text": "Provides a clickable source URL", "auto": true, "check": "regex:https?://"}
+      ]
+    },
+    {
+      "id": 3,
+      "skill": "pakistan-regs-validate-prd",
+      "name": "validate-bad-prd",
+      "prompt": "Review this PRD for any Pakistan regulatory issues:\n\n---\nProduct: NanoCash — instant 14-day digital loans up to Rs. 25,000 for salaried workers.\nLender: NanoCash Lending Limited (SECP-licensed NBFC, NBMFC category).\nChannel: Mobile app.\nOnboarding: User opens app, provides CNIC, takes a selfie. We hit NADRA Verisys + BVS. Onboarding completes in 90 seconds.\nUnderwriting signals: NADRA data + phone metadata + user's contact list (with explicit consent flag at install time) + SMS read (with consent) + location.\nFees: 5% flat origination fee + 2% per week markup. APR works out to ~120%.\nDisclosure: We display total amount payable on the disbursement screen before user taps 'Borrow'.\nCollections: If overdue 3 days, our bot calls the user. If 7 days, the bot calls 3 numbers from the user's contact list. If 14 days, third-party agency (Quick Recovery Services Pvt Ltd) takes over.\nRepayment: Easypaisa, JazzCash, bank transfer.\nLicensing: We are listed on SECP's whitelist as of last quarter.\n---\n\nReturn the structured verdict with BLOCKERS, WARNINGS and INFO. Cite every finding.",
+      "assertions": [
+        {"text": "Flags contact-list access as a BLOCKER citing SECP digital-lending circulars", "auto": true, "check": "contains_any:contact list,phone contacts,phone book"},
+        {"text": "Flags calling 3 numbers from contact list as a BLOCKER (fair-debt-collection)", "auto": true, "check": "contains_any:harassment,third-party contact,family,no third-party"},
+        {"text": "Flags absence of KFS before disbursement as a BLOCKER", "auto": true, "check": "contains_any:KFS,Key Fact Statement"},
+        {"text": "Flags collection at 3 days as too aggressive (14-day minimum notice rule)", "auto": true, "check": "contains_any:14-day,14 days,fourteen days,BPRD C13"},
+        {"text": "Flags APR/tenor/fee structure under Circular 10/2023 nano-lending caps", "auto": true, "check": "contains_any:SECP_10_2023,nano-lending,APR cap,nano cap"},
+        {"text": "Flags missing pre-disbursement eCIB / private bureau check", "auto": true, "check": "contains_any:eCIB,credit bureau,bureau check"},
+        {"text": "Uses BLOCKER / WARNING / INFO severity structure", "auto": true, "check": "contains_all:BLOCKER,WARNING,INFO"},
+        {"text": "Cites at least 3 doc_id wikilinks", "auto": true, "check": "min_count_regex:\\[\\[(SBP_|SECP_|GoP_|PBA_|FMU_)[A-Za-z0-9_]+\\]\\]:3"}
+      ]
+    },
+    {
+      "id": 4,
+      "skill": "pakistan-regs-validate-prd",
+      "name": "validate-emi-with-lending",
+      "prompt": "Review this idea for regulatory issues:\n\nWe're an SBP-licensed EMI running a digital wallet (PakWallet). We have 2M active users. We want to launch 'Pay-Later for Vendors' — buy now, pay merchants in 30 days. We'd advance the merchant immediately from our customer-funds account, and collect from the customer at month-end. No interest, just a 1.5% fee. Customer signs a digital agreement.\n\nIs this allowed?",
+      "assertions": [
+        {"text": "Identifies EMIs cannot lend as a primary BLOCKER", "auto": true, "check": "contains_any:EMIs shall not,EMI cannot lend,EMIs cannot lend,EMIs are prohibited,EMIs may not lend,not conduct the business of banking,prohibited from lending"},
+        {"text": "Flags use of customer-funds trust account for non-permitted purpose", "auto": true, "check": "contains_any:trust account,segregated,customer funds,safeguarding,commingl"},
+        {"text": "Cites EMI Regulations doc_id", "auto": true, "check": "contains:[[SBP_EMI_Regs]]"},
+        {"text": "Suggests legitimate paths (NBFC license, bank partnership, sandbox)", "auto": false}
+      ]
+    },
+    {
+      "id": 5,
+      "skill": "pakistan-regs-cite",
+      "name": "cite-fair-debt-14-day",
+      "prompt": "Give me a publication-quality citation for the rule that says banks must give the customer 14 days' notice before visiting their workplace or residence to collect on an overdue loan. I need both inline and block formats — going into a Confluence compliance page.",
+      "assertions": [
+        {"text": "Cites [[SBP_FairDebt_2008]] doc_id", "auto": true, "check": "contains:[[SBP_FairDebt_2008]]"},
+        {"text": "Includes BPRD Circular No. 13 of 2008 reference", "auto": true, "check": "regex:BPRD.{0,30}13.{0,30}2008"},
+        {"text": "Provides both Variant A (inline) and Variant B (block)", "auto": true, "check": "contains_all:Variant A,Variant B"},
+        {"text": "Includes verbatim quote about 14-day notice", "auto": true, "check": "regex:14[\\s\\-]?day"},
+        {"text": "Has a chunk_id like DOC::pN::cN or DOC::html::cN or DOC::summary", "auto": true, "check": "regex:[A-Z]+_[A-Za-z0-9_]+::(p\\d+::c\\d+|html::c\\d+|summary)"},
+        {"text": "Includes a source URL (page deep-link if PDF, else plain URL with HTML-source note)", "auto": true, "check": "regex:https?://[^\\s]+"}
+      ]
+    },
+    {
+      "id": 6,
+      "skill": "pakistan-regs-cite",
+      "name": "cite-refuse-fabrication",
+      "prompt": "Give me a citation for the SBP circular that bans use of generative AI for credit underwriting in Pakistan.",
+      "assertions": [
+        {"text": "Refuses to fabricate a citation for a non-existent rule", "auto": true, "check": "contains_any:cannot produce,refus,does not contain,no such,not found,cannot find,not present,does not exist,citation refused,unable to cite,fabricat"},
+        {"text": "Does NOT invent a fake circular number or doc_id", "auto": false},
+        {"text": "Suggests adjacent / closest available regulations (tech-risk, model governance)", "auto": false}
+      ]
+    }
+  ]
+}
