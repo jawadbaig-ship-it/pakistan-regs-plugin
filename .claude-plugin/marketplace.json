@@ -1,0 +1,14 @@
+{
+  "name": "adalfi-regs",
+  "owner": {
+    "name": "AdalFi Product Team"
+  },
+  "plugins": [
+    {
+      "name": "pakistan-regs",
+      "source": ".",
+      "description": "Pakistan lender regulatory knowledge base (SBP, SECP, FMU, NADRA, MoITT, PTA) — 115 regulations, 39 concepts, 20 entities, 3,217 chunks with page-accurate citations. Adds /reg-search, /reg-validate, /reg-cite slash commands and three skills for digital-lending compliance.",
+      "version": "1.0.0"
+    }
+  ]
+}
