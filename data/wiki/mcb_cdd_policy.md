@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # MCB Bank - CDD/AML/CFT/CPF Policy v7.0
 
 **Regulator:** Bank Guidance (3rd party)  

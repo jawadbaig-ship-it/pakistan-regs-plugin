@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Prudential Regulations for MFBs (2025)
 
 **Regulator:** SBP  

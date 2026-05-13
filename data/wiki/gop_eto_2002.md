@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # Electronic Transactions Ordinance (ETO), 2002
 
 **Regulator:** GoP  
@@ -43,3 +44,19 @@ Foundational statute giving legal validity to electronic documents, signatures a
 
 - [[entities/nadra|National Database & Registration Authority (NADRA)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/otp|One-Time Password (OTP)]]
+- [[concepts/biometric|Biometric Verification]]
+- [[concepts/nadra-verisys|NADRA Verisys / BVS]]
+
+## Related entities (manually curated)
+
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/nbfc|Non-Banking Finance Company (NBFC)]]
+- [[entities/emi|Electronic Money Institution (EMI)]]

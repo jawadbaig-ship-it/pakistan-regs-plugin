@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Consolidated Customer Onboarding Framework 2025
 
 **Regulator:** SBP  

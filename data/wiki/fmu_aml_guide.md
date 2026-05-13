@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # FMU AML/CFT Guide for Financial Institutions
 
 **Regulator:** FMU  

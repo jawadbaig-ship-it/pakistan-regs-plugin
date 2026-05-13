@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # Credit Bureaus Act, 2015
 
 **Regulator:** GoP  
@@ -42,3 +43,21 @@ Establishes the licensing, supervision and operating regime for private credit b
 
 - [[entities/credit-bureau|Private Credit Bureau]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/ecib|Electronic Credit Information Bureau (eCIB)]]
+- [[concepts/data-protection|Personal Data Protection]]
+- [[concepts/data-localization|Data Localization / Residency]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/credit-bureau|Private Credit Bureau]]
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/dfi|Development Finance Institution (DFI)]]
+- [[entities/digital-bank|Digital Bank (DRB / DFB)]]

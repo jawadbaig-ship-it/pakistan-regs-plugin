@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Prudential Regulations for Agriculture Financing
 
 **Regulator:** SBP  

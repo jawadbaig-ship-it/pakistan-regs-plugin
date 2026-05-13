@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Prevention of Electronic Crimes Act (PECA), 2016
 
 **Regulator:** GoP / MoITT  
@@ -42,3 +43,18 @@ Cybercrime statute - criminalises unauthorised access, electronic fraud, identit
 ## Related entities
 
 - [[entities/moitt|Ministry of IT & Telecommunication (MoITT)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/cybersecurity|Cybersecurity]]
+- [[concepts/data-protection|Personal Data Protection]]
+
+## Related entities (manually curated)
+
+- [[entities/moitt|Ministry of IT & Telecommunication (MoITT)]]
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/nbfc|Non-Banking Finance Company (NBFC)]]

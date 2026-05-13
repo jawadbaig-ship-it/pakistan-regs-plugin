@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # SBP Shariah Governance Framework for Islamic Banking
 
 **Regulator:** SBP  

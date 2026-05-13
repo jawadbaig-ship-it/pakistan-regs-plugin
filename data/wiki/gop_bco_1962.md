@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # Banking Companies Ordinance (BCO), 1962
 
 **Regulator:** GoP  
@@ -49,3 +50,22 @@ Primary banking law - governs licensing, business scope, prudential and conduct 
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/ecib|Electronic Credit Information Bureau (eCIB)]]
+- [[concepts/classification-provisioning|Loan Classification & Provisioning]]
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+- [[concepts/fair-debt-collection|Fair Debt Collection]]
+- [[concepts/cghm|Consumer Grievances Handling Mechanism (CGHM)]]
+- [[concepts/banking-mohtasib|Banking Mohtasib (Ombudsman)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]
+- [[entities/banking-mohtasib|Banking Mohtasib]]

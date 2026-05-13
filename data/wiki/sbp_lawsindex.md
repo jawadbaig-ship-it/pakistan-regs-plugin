@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Laws & Regulations - SBP Portal
 
 **Regulator:** SBP  

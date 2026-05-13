@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # State Bank of Pakistan Act, 1956
 
 **Regulator:** GoP / SBP  
@@ -48,3 +49,24 @@ _(none detected)_
 - [[entities/emi|Electronic Money Institution (EMI)]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/aml-cft|AML/CFT/CPF Framework]]
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+- [[concepts/tech-risk|Technology Risk Management]]
+- [[concepts/data-protection|Personal Data Protection]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/digital-bank|Digital Bank (DRB / DFB)]]
+- [[entities/emi|Electronic Money Institution (EMI)]]
+- [[entities/psp|Payment System Provider (PSP)]]
+- [[entities/pso|Payment System Operator (PSO)]]

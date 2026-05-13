@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Branchless Banking Regulations (Updated 2019)
 
 **Regulator:** SBP  

@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # SBP IFRS-9 Implementation for Banks
 
 **Regulator:** SBP  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Customers Digital Onboarding Framework (Revised April 2022)
 
 **Regulator:** SBP  

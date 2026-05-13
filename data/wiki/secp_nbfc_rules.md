@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP NBFC (Establishment & Regulation) Rules 2003
 
 **Regulator:** SECP  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP - Block Digital Payment Services to Unauthorised DLAs (PSD C2 2023)
 
 **Regulator:** SBP  

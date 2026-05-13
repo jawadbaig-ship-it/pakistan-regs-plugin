@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Amendments in Outsourcing Risk Management Framework (Annex I)
 
 **Regulator:** SBP  
@@ -43,3 +44,20 @@ Companion document to the 2019 outsourcing framework - lists specific amendments
 - [[entities/emi|Electronic Money Institution (EMI)]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/outsourcing|Outsourcing]]
+- [[concepts/tech-risk|Technology Risk Management]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/digital-bank|Digital Bank (DRB / DFB)]]
+- [[entities/emi|Electronic Money Institution (EMI)]]

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Banking Consumer Awareness (PIDE Seminar Paper)
 
 **Regulator:** PIDE (Research)  
@@ -38,3 +39,16 @@ _(none detected)_
 ## Related entities
 
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/bcfrf|Business Conduct & Fair Treatment Regulatory Framework (BC&FRF)]]
+- [[concepts/cghm|Consumer Grievances Handling Mechanism (CGHM)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]

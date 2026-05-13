@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP issues Digital Lending Standards (Press Release)
 
 **Regulator:** SECP  

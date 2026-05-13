@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Measures to Enhance Security of Digital Banking Products (BPRD C4 2023)
 
 **Regulator:** SBP  

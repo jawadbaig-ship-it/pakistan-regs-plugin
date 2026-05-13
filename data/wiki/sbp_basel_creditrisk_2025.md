@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Basel Capital Adequacy Framework Instructions for Credit Risk
 
 **Regulator:** SBP  
@@ -45,3 +46,19 @@ Latest SBP instructions on the credit-risk component of Basel capital - standard
 - [[entities/bank|Bank]]
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/basel-iii|Basel III]]
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+- [[concepts/classification-provisioning|Loan Classification & Provisioning]]
+- [[concepts/ifrs9|IFRS-9 / Expected Credit Loss]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

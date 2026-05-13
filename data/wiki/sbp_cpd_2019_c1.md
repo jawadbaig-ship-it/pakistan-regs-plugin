@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Membership of Private Credit Bureaus under Credit Bureaus Act, 2015
 
 **Regulator:** SBP  
@@ -43,3 +44,18 @@ Mandates FIs to become members of one or more private credit bureaus licensed un
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/ecib|Electronic Credit Information Bureau (eCIB)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/credit-bureau|Private Credit Bureau]]
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP enables Digital Lenders to launch Novel Solutions
 
 **Regulator:** SECP  

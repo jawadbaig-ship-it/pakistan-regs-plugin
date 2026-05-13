@@ -6,7 +6,7 @@ type: index
 
 # Pakistan Lender Regulatory Wiki — Index
 
-_115 regulations · 39 concepts · 20 entities · last refreshed 2026-05-12_
+_115 regulations · 39 concepts · 20 entities · last refreshed 2026-05-13_
 
 Read [[CLAUDE]] for the wiki schema. Append-only changelog in [[log]].
 

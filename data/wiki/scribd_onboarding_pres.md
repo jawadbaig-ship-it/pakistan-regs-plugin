@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Digital Onboarding Framework Guide (Scribd presentation)
 
 **Regulator:** Scribd (3rd party copy)  

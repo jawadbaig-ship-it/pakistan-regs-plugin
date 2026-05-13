@@ -8,6 +8,11 @@ type: log
 
 _Newest entries on top._
 
+## [2026-05-13] build | tools/build.py rebuild
+- Refreshed wikilinks + concept/entity pages
+- Rebuilt graph.json (174 nodes / 671 edges)
+- Refreshed chunks.jsonl and index.md
+
 ## [2026-05-12] build | tools/build.py rebuild
 - Refreshed wikilinks + concept/entity pages
 - Rebuilt graph.json (174 nodes / 671 edges)

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # MCB Bank - Schedule of Bank Charges (SOBC) Jan-Jun 2026
 
 **Regulator:** Bank Guidance (3rd party)  

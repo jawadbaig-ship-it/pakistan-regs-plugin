@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP Circular 12/2024 - alternative landing URL
 
 **Regulator:** SECP  

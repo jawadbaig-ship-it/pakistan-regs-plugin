@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Consolidated Customer Onboarding Framework (Scribd copy)
 
 **Regulator:** Scribd (3rd party copy)  

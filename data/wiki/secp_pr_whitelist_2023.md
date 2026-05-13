@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP publishes Digital Lending Applications Whitelist (Press Release)
 
 **Regulator:** SECP  

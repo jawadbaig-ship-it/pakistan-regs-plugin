@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Consumer Awareness - Credit Reporting Booklet
 
 **Regulator:** SBP  

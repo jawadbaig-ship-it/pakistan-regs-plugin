@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # New eCIB System V2 - Information Page
 
 **Regulator:** SBP  

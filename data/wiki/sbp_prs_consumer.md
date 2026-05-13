@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Prudential Regulations - Consumer Financing
 
 **Regulator:** SBP  

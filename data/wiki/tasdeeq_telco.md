@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Provision of Data by Telcos to Credit Bureaus
 
 **Regulator:** Tasdeeq (Credit Bureau)  

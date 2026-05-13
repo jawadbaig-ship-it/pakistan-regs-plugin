@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # SBP Housing Finance Guidelines & Government Markup Subsidy
 
 **Regulator:** SBP  

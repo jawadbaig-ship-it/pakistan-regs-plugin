@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # PTA - Telecom Consumer Protection & Data Regulations
 
 **Regulator:** PTA  

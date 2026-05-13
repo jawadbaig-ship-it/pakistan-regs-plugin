@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # New eCIB Data Format Specifications
 
 **Regulator:** SBP  

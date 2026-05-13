@@ -1,6 +1,6 @@
 {
   "name": "pakistan-regs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pakistan lender regulatory knowledge base (SBP, SECP, FMU, NADRA, MoITT) for digital-lending compliance. Includes 115 regulations, 39 concepts, 20 entities, with page-accurate citation deep links.",
   "author": {
     "name": "Pakistan Regulatory Wiki Maintainers"

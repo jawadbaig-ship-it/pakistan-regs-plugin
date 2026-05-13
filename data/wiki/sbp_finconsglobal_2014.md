@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Financial Consumer Protection - A Global Perspective (Annex)
 
 **Regulator:** SBP  
@@ -41,3 +42,17 @@ _(none detected)_
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/bcfrf|Business Conduct & Fair Treatment Regulatory Framework (BC&FRF)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

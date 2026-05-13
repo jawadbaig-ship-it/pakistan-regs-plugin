@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Internal Credit Risk Rating System (Scribd copy)
 
 **Regulator:** Scribd (3rd party copy)  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Facilitation of Merchants Operations
 
 **Regulator:** SBP  

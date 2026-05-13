@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # SBP Policy Rate & Interest Rate Framework
 
 **Regulator:** SBP  

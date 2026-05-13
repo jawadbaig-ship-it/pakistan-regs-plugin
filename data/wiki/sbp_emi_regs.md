@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Regulations for EMIs
 
 **Regulator:** SBP  

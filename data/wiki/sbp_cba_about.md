@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # The Credit Bureaus Act, 2015 - Contents (SBP About page)
 
 **Regulator:** SBP  
@@ -37,3 +38,15 @@ _(none detected)_
 
 - [[entities/credit-bureau|Private Credit Bureau]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/ecib|Electronic Credit Information Bureau (eCIB)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/credit-bureau|Private Credit Bureau]]

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Companies Act, 2017
 
 **Regulator:** GoP  
@@ -47,3 +48,17 @@ Primary corporate-law statute - incorporation, governance, disclosures, mergers 
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/nbfc|Non-Banking Finance Company (NBFC)]]
 - [[entities/secp|Securities and Exchange Commission of Pakistan (SECP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+- [[concepts/shariah-governance|Shariah Governance]]
+
+## Related entities (manually curated)
+
+- [[entities/secp|Securities and Exchange Commission of Pakistan (SECP)]]
+- [[entities/nbfc|Non-Banking Finance Company (NBFC)]]
+- [[entities/bank|Bank]]

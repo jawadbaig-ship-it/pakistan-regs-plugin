@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # MCB Islamic - eCIB Customer Notice
 
 **Regulator:** Bank Guidance (3rd party)  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Technology Risk Management Framework for Payment Institutions
 
 **Regulator:** SBP  

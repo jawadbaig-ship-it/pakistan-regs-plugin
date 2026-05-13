@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # National Financial Inclusion Strategy (NFIS) 2024-28
 
 **Regulator:** SBP  

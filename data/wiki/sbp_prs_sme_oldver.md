@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Prudential Regulations for SMEs (older version)
 
 **Regulator:** SBP  

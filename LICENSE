@@ -1,0 +1,83 @@
+PROPRIETARY — INTERNAL USE ONLY
+================================
+
+Copyright (c) 2026 AdalFi (Private) Limited and contributors. All rights reserved.
+
+This software, the bundled regulatory knowledge base, and all associated
+artefacts (collectively, the "Software") are the confidential and proprietary
+property of AdalFi (Private) Limited. The Software is licensed, not sold.
+
+LICENCE GRANT
+-------------
+Subject to the conditions below, AdalFi grants employees, contractors, and
+authorised partners of AdalFi (collectively, "Authorised Users") a
+non-transferable, non-exclusive, revocable licence to install, run, and
+modify the Software solely for internal compliance, product-validation, and
+agentic-pipeline use cases inside AdalFi or under AdalFi-signed agreements.
+
+CONDITIONS
+----------
+1. The Software, its bundled wiki, chunks.jsonl, knowledge graph, and every
+   curated summary remain the property of AdalFi. Authorised Users do not
+   acquire ownership.
+2. The Software MUST NOT be redistributed, sublicensed, published, posted on
+   any public-facing service, mirrored to a public repository, or shared with
+   any party outside the Authorised Users without prior written approval
+   from an AdalFi authorised signatory.
+3. The Software MUST NOT be used to train or fine-tune any model, public or
+   private, that will be deployed outside AdalFi without prior written
+   approval.
+4. AdalFi confidential information embedded in or derived from the Software
+   (e.g., curated regulatory analyses, internal compliance interpretations)
+   is subject to AdalFi's standard confidentiality and information-security
+   policies.
+
+REGULATORY SOURCE MATERIAL
+--------------------------
+The Software incorporates summaries of, references to, and direct quotations
+from regulations issued by the State Bank of Pakistan (SBP), the Securities
+and Exchange Commission of Pakistan (SECP), the Financial Monitoring Unit
+(FMU), the National Database and Registration Authority (NADRA), the
+Pakistan Telecommunication Authority (PTA), the Ministry of Information
+Technology and Telecommunication (MoITT), the Ministry of Finance (MoF),
+and the Pakistan Banks Association (PBA), and from primary legislation of
+the Islamic Republic of Pakistan.
+
+These underlying regulatory documents remain the property of, and are
+subject to use restrictions imposed by, their respective issuers. The
+verbatim quotes and source-URL references in this Software are included
+under fair-use principles for compliance and educational purposes. Nothing
+in this licence grants any right in the underlying regulatory documents
+themselves; consult the issuing regulator's official portal for the
+authoritative text.
+
+NOT LEGAL ADVICE
+----------------
+The Software is a compliance-assistance tool. It does not constitute legal
+advice. AdalFi makes no warranty that the Software is complete, current,
+accurate, or fit for any particular regulatory determination. Authorised
+Users must verify findings against the official source documents (linked
+in every citation) and obtain qualified legal counsel for any decision
+that may have legal consequences.
+
+DISCLAIMER OF WARRANTY
+----------------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND ACCURACY. IN NO
+EVENT SHALL ADALFI OR ITS CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+TERMINATION
+-----------
+This licence terminates automatically upon (a) breach of any condition above,
+or (b) cessation of the Authorised User's relationship with AdalFi. Upon
+termination, the Authorised User must delete all copies of the Software
+from systems under their control.
+
+CONTACT
+-------
+For licence questions, redistribution requests, or to report a misuse:
+product-compliance@adalfi.ai

@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # SBP Green Banking Guidelines
 
 **Regulator:** SBP  

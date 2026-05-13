@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # National Cyber Security Policy, 2021
 
 **Regulator:** GoP / MoITT  

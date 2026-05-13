@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP strengthens regulations to curb predatory practices in digital nano-lending
 
 **Regulator:** Industry News  

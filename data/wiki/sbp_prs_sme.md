@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Prudential Regulations - SME Financing (Jan 2025)
 
 **Regulator:** SBP  

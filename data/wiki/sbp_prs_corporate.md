@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Prudential Regulations - Corporate / Commercial Banking
 
 **Regulator:** SBP  

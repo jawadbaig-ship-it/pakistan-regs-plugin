@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Payment Systems & Electronic Fund Transfers (PS&EFT) Act, 2007
 
 **Regulator:** GoP  
@@ -48,3 +49,20 @@ _(none detected)_
 - [[entities/pso|Payment System Operator (PSO)]]
 - [[entities/psp|Payment System Provider (PSP)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/raast|Raast Instant Payments]]
+- [[concepts/open-banking|Open Banking]]
+- [[concepts/otp|One-Time Password (OTP)]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/psp|Payment System Provider (PSP)]]
+- [[entities/pso|Payment System Operator (PSO)]]
+- [[entities/emi|Electronic Money Institution (EMI)]]
+- [[entities/bank|Bank]]

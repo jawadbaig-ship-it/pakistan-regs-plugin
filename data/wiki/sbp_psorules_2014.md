@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # Rules for Payment System Operators (PSOs) and Payment System Providers (PSPs)
 
 **Regulator:** SBP  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Guidelines on Outsourcing Arrangements (2007)
 
 **Regulator:** SBP  
@@ -45,3 +46,18 @@ Original SBP outsourcing guidance - superseded by BPRD C6/2019 (Tier 2) but reta
 - [[entities/bank|Bank]]
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/outsourcing|Outsourcing]]
+- [[concepts/tech-risk|Technology Risk Management]]
+- [[concepts/cloud|Cloud / CSP Outsourcing]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

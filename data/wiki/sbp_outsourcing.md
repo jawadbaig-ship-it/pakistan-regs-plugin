@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Outsourcing Risk Management Framework
 
 **Regulator:** SBP  

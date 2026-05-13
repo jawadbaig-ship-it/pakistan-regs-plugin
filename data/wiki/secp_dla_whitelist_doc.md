@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Digital Lending Apps run/administered by Licensed NBFCs (Whitelist)
 
 **Regulator:** SECP  

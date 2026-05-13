@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP PSP Customer Notifications for Digital Payments (PSD C1 2024)
 
 **Regulator:** SBP  

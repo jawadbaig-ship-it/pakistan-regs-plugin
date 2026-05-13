@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # eCIB Portal - SBP Credit Information Bureau
 
 **Regulator:** SBP  

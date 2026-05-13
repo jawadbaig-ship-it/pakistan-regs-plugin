@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Licensing & Regulatory Framework for Digital Banks
 
 **Regulator:** SBP  

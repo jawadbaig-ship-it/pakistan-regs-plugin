@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Digital Banking Framework - DFS Page
 
 **Regulator:** SBP  

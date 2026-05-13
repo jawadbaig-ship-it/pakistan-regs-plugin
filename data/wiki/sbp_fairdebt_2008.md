@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Fair Debt Collection Guidelines (BPRD C13/2008)
 
 **Regulator:** SBP  

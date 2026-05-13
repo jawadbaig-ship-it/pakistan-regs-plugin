@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Guidelines on Internal Credit Risk Rating Systems
 
 **Regulator:** SBP  
@@ -44,3 +45,17 @@ Sets minimum standards for FIs internal credit-risk rating frameworks - rating p
 - [[entities/bank|Bank]]
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/classification-provisioning|Loan Classification & Provisioning]]
+- [[concepts/tech-risk|Technology Risk Management]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

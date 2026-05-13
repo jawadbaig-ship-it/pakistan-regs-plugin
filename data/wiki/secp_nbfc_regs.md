@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP NBFC & Notified Entities Regulations 2008
 
 **Regulator:** SECP  

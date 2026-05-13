@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # NADRA Verisys / Biometric Verification Services
 
 **Regulator:** NADRA  

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Risk Management Guidelines for Commercial Banks & DFIs
 
 **Regulator:** SBP  
@@ -44,3 +45,19 @@ Foundational SBP guidance on enterprise risk management - credit, market, liquid
 - [[entities/bank|Bank]]
 - [[entities/dfi|Development Finance Institution (DFI)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/tech-risk|Technology Risk Management]]
+- [[concepts/bcp-dr|Business Continuity & Disaster Recovery]]
+- [[concepts/classification-provisioning|Loan Classification & Provisioning]]
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/bank|Bank]]
+- [[entities/dfi|Development Finance Institution (DFI)]]

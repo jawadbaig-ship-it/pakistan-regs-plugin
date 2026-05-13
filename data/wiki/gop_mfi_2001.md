@@ -11,6 +11,7 @@ status: stale-link
 ---
 
 
+
 # Microfinance Institutions Ordinance, 2001
 
 **Regulator:** GoP  
@@ -44,3 +45,19 @@ _(none detected)_
 - [[entities/bank|Bank]]
 - [[entities/mfb|Microfinance Bank (MFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/cdd|Customer Due Diligence (CDD)]]
+- [[concepts/classification-provisioning|Loan Classification & Provisioning]]
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+- [[concepts/asaan-account|Asaan Account]]
+- [[concepts/branchless-banking|Branchless Banking & Mobile Wallets]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/mfb|Microfinance Bank (MFB)]]

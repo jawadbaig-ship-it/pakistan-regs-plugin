@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Outsourcing IT Services in the Financial Sector - Pakistans Regulatory Landscape
 
 **Regulator:** IBA (Industry)  

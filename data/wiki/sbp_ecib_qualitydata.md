@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP eCIB Quality Data Reporting Instructions
 
 **Regulator:** SBP  

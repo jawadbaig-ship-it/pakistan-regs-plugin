@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP NBFCs Data & Statistics Portal
 
 **Regulator:** SECP  

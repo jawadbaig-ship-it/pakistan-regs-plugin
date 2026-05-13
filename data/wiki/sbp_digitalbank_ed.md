@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Digital Bank Regulatory Framework - Exposure Draft
 
 **Regulator:** SBP  

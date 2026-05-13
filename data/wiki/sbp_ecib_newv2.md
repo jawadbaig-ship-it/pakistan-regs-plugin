@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP eCIB System V2 - Launch Press Release
 
 **Regulator:** SBP  

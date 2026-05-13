@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP AML/CFT Regulations for Banks & DFIs (previous version)
 
 **Regulator:** SBP  

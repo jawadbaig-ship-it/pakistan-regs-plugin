@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # MPLAW Client Update - SBP Digital Banks Framework
 
 **Regulator:** Legal (3rd party)  
@@ -41,3 +42,15 @@ _(none detected)_
 - [[entities/bank|Bank]]
 - [[entities/digital-bank|Digital Bank (DRB / DFB)]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/capital-adequacy|Capital Adequacy & Paid-up Capital]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/digital-bank|Digital Bank (DRB / DFB)]]

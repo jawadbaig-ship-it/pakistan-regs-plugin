@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Enterprise Technology Governance & Risk Management Framework for FIs
 
 **Regulator:** SBP  

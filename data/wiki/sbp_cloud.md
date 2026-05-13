@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Framework on Outsourcing to CSPs
 
 **Regulator:** SBP  

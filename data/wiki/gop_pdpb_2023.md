@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Personal Data Protection Bill, 2023 (Final Draft)
 
 **Regulator:** GoP / MoITT  
@@ -42,3 +43,24 @@ Pakistans forthcoming general data-protection law - introduces controller/proces
 ## Related entities
 
 - [[entities/moitt|Ministry of IT & Telecommunication (MoITT)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/data-protection|Personal Data Protection]]
+- [[concepts/data-localization|Data Localization / Residency]]
+- [[concepts/cdd|Customer Due Diligence (CDD)]]
+- [[concepts/kyc|Know Your Customer (KYC)]]
+
+## Related entities (manually curated)
+
+- [[entities/moitt|Ministry of IT & Telecommunication (MoITT)]]
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/secp|Securities and Exchange Commission of Pakistan (SECP)]]
+- [[entities/bank|Bank]]
+- [[entities/mfb|Microfinance Bank (MFB)]]
+- [[entities/nbfc|Non-Banking Finance Company (NBFC)]]
+- [[entities/emi|Electronic Money Institution (EMI)]]
+- [[entities/dla|Digital Lending App (DLA)]]

@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SBP Revised AML/CFT Regulations for MFBs
 
 **Regulator:** SBP  

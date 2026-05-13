@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP AML/CFT Regulations for NBFCs
 
 **Regulator:** SECP  

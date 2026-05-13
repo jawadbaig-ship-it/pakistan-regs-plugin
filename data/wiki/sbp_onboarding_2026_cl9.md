@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Consolidated Customer Onboarding Framework (Cover Letter)
 
 **Regulator:** SBP  

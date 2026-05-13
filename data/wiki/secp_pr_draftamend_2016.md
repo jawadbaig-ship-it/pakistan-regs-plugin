@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Draft Amendments to NBFC (Establishment & Regulation) Rules, 2003 - Press Release
 
 **Regulator:** SECP  

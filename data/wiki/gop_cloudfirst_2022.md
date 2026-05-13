@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Pakistan Cloud First Policy, 2022
 
 **Regulator:** GoP / MoITT  

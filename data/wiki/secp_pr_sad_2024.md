@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # SECP introduces Self-Assessment Declaration for NBFCs to enrol Digital Lending Apps
 
 **Regulator:** SECP  

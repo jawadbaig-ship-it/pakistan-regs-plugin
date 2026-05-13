@@ -11,6 +11,7 @@ status: active
 ---
 
 
+
 # Credit Bureaus Regulations (Notification)
 
 **Regulator:** SBP  
@@ -42,3 +43,16 @@ _(none detected)_
 
 - [[entities/credit-bureau|Private Credit Bureau]]
 - [[entities/sbp|State Bank of Pakistan (SBP)]]
+
+
+<!-- KG-LINKS-MANUAL -->
+
+## Related concepts (manually curated)
+
+- [[concepts/ecib|Electronic Credit Information Bureau (eCIB)]]
+- [[concepts/data-protection|Personal Data Protection]]
+
+## Related entities (manually curated)
+
+- [[entities/sbp|State Bank of Pakistan (SBP)]]
+- [[entities/credit-bureau|Private Credit Bureau]]
